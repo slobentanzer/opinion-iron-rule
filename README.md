@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/slobentanzer/opinion-iron-rule/tree/gh-pages) branch hosts the contents of this directory at <https://slobentanzer.github.io/opinion-iron-rule/>.
-The permalink for this webpage version is <https://slobentanzer.github.io/opinion-iron-rule/v/f92ea1b72211d2543bac7276995d1b69947c6949/>.
+The permalink for this webpage version is <https://slobentanzer.github.io/opinion-iron-rule/v/4cdcc096048486e172126f2c0c24faed584592a1/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://slobentanzer.github.io/opinion-iron-rule/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`f92ea1b72211d2543bac7276995d1b69947c6949`](https://github.com/slobentanzer/opinion-iron-rule/commit/f92ea1b72211d2543bac7276995d1b69947c6949).
+[`4cdcc096048486e172126f2c0c24faed584592a1`](https://github.com/slobentanzer/opinion-iron-rule/commit/4cdcc096048486e172126f2c0c24faed584592a1).
